@@ -127,6 +127,8 @@ auipc x10, 1
 ---
 
 ## Project Structure
+
+```text
 RV32I_CPU/
 │
 ├── rtl/
@@ -150,6 +152,7 @@ RV32I_CPU/
 │   └── waveform.png
 │
 └── README.md
+```
 
 ---
 
@@ -177,4 +180,3 @@ RV32I_CPU/
 This project helped strengthen understanding of CPU datapath design, control signal generation, RISC-V instruction formats, branch and jump execution flow, memory interfacing, RTL design methodology, and simulation and verification workflows.
 
 ---
-
